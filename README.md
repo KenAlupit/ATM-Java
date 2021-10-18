@@ -1,4 +1,4 @@
-# ATM-Machine-Java
+# ATM-Java
 
 A complete transition of https://github.com/KenAlupit/ATM-Machine made in c++ to Java with minor improvements to the code.
 
